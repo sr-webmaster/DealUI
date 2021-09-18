@@ -1,0 +1,229 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Customer Message snapshot default 1`] = `
+<div
+  class="container bgwhite"
+>
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex d-flex"
+    >
+      <div
+        class="v-card v-card--flat v-sheet theme--light"
+      >
+        <div
+          class="v-card__title"
+        >
+          <div
+            class="layout row justify-space-between"
+          >
+            <h2>
+              Sent Email
+            </h2>
+             
+            <button
+              class="mr-0 mt-0 small-btn v-btn v-btn--icon theme--light"
+              type="button"
+            >
+              <div
+                class="v-btn__content"
+              >
+                <i
+                  aria-hidden="true"
+                  class="v-icon grey--text fas fa-times theme--light"
+                />
+              </div>
+            </button>
+          </div>
+        </div>
+         
+        <hr
+          class="v-divider theme--light"
+        />
+         
+        <div
+          class="layout row"
+        >
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Customer
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    User
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Customer ID
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    999
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Email Address
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    info@mail.com
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Phone
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    766-888-9999
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="flex d-flex justify-end xs12"
+    >
+      <div
+        class="v-card v-card--flat v-sheet theme--light"
+      >
+        <div
+          class="v-card__title"
+        >
+          <div>
+            <h3
+              class="subheading pb-1"
+            >
+              
+              Opportunity
+            
+            </h3>
+            
+            Trade in: 2016 Prius owner looking for SUV options
+          
+          </div>
+        </div>
+         
+        <hr
+          class="v-divider theme--light"
+        />
+         
+        <div
+          class="v-card__text"
+        >
+          <h2
+            class="pb-3"
+          >
+            
+            Discuss new arrivals / SUV options
+          
+          </h2>
+           
+          <div>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </p>
+          </div>
+        </div>
+         
+        <div
+          class="layout justify-end row"
+        >
+          <button
+            class="v-btn v-btn--large v-btn--round theme--light"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+            Close
+          
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

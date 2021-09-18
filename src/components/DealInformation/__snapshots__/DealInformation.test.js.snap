@@ -1,0 +1,1471 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DealInformation Visuals New Mode 1`] = `
+<div
+  class="container fluid grid-list-lg"
+  isnew=""
+>
+  <form
+    class="v-form"
+    novalidate="novalidate"
+  >
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm9"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Opportunity Title
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  autofocus="autofocus"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption pa-2"
+        >
+          Status
+        </label>
+         
+        <div>
+          <div
+            class="v-menu"
+            label="Status"
+          >
+            <button
+              class="v-btn theme--dark warning warning-text--text"
+              type="button"
+            >
+              <div
+                class="v-btn__content"
+              >
+                
+  Pending
+ 
+                <i
+                  aria-hidden="true"
+                  class="v-icon v-icon--right material-icons theme--dark"
+                >
+                  arrow_drop_down
+                </i>
+              </div>
+            </button>
+            <div
+              class="v-menu__content theme--light "
+              style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+            >
+               
+              <div
+                class="v-list theme--light"
+                role="list"
+              >
+                <div
+                  role="listitem"
+                >
+                  <a
+                    class="v-list__tile v-list__tile--link theme--light"
+                  >
+                    <div
+                      class="v-list__tile__title"
+                    >
+                      Status 1
+                    </div>
+                  </a>
+                </div>
+                <div
+                  role="listitem"
+                >
+                  <a
+                    class="v-list__tile v-list__tile--link theme--light"
+                  >
+                    <div
+                      class="v-list__tile__title"
+                    >
+                      Status 2
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Opportunity Type
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-select theme--light"
+          role="combobox"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-select__slot"
+              >
+                <div
+                  class="v-select__selections"
+                >
+                  <input
+                    aria-readonly="false"
+                    autocomplete="on"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+                <div
+                  class="v-input__append-inner"
+                >
+                  <div
+                    class="v-input__icon v-input__icon--append"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="v-icon material-icons theme--light"
+                    >
+                      arrow_drop_down
+                    </i>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="v-menu"
+              >
+                <div
+                  class="v-menu__content theme--light "
+                  style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                >
+                  <div
+                    class="v-select-list v-card theme--light"
+                  >
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__content"
+                          >
+                            <div
+                              class="v-list__tile__title"
+                            >
+                              Test 1
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__content"
+                          >
+                            <div
+                              class="v-list__tile__title"
+                            >
+                              Test 2
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Lead Source
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Import Date & Time
+        </label>
+         
+        <p
+          class="pa-2"
+        >
+          
+          
+        
+        </p>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Age
+        </label>
+         
+        <p
+          class="pa-2"
+        >
+          
+          
+        
+        </p>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Sales Rep
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-text-field--placeholder v-select v-autocomplete v-input--hide-details theme--light"
+          outline=""
+          persistent-hint=""
+          single-line=""
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-select__slot"
+              >
+                <input
+                  aria-label=""
+                  autocomplete="off"
+                  placeholder="type a name"
+                  role="combobox"
+                  type="text"
+                />
+                <div
+                  class="v-input__append-inner"
+                >
+                  <div
+                    class="v-input__icon v-input__icon--"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="v-icon v-icon--link material-icons theme--light"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="v-input__append-inner"
+                >
+                  <div
+                    class="v-input__icon v-input__icon--append"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="v-icon material-icons theme--light"
+                    >
+                      arrow_drop_down
+                    </i>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="v-menu"
+              >
+                <div
+                  class="v-menu__content theme--light v-autocomplete__content"
+                  style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                >
+                  <div
+                    class="v-select-list v-card theme--light"
+                  >
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <div
+                          class="v-list__tile theme--light"
+                        >
+                          <div
+                            class="v-list__tile__content"
+                          >
+                            <div
+                              class="v-list__tile__title"
+                            >
+                              No data available
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Internet Coordinator
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Sales Manager
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          F & I Manager
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+          for="deal-info-estimate"
+        >
+          Estimated Budget
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  id="deal-info-estimate"
+                  type="number"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+          for="deal-info-pbsid"
+        >
+          PBS Deal Id
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  id="deal-info-pbsid"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex grow"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption pa-2"
+          for="deal-info-notes"
+        >
+          Notes
+        </label>
+         
+        <div
+          class="v-input v-textarea v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <textarea
+                  autogrow=""
+                  id="deal-info-notes"
+                  rows="5"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      class="layout"
+    >
+      <div
+        class="flex"
+      >
+        <button
+          class="v-btn v-btn--large v-btn--round theme--light primary primary-text--text"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Save Changes
+        
+          </div>
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+`;
+
+exports[`DealInformation Visuals Update Mode 1`] = `
+<div
+  class="container fluid grid-list-lg"
+>
+  <form
+    class="v-form"
+    novalidate="novalidate"
+  >
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm9"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Opportunity Title
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-input--is-label-active v-input--is-dirty theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  autofocus="autofocus"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption pa-2"
+        >
+          Status
+        </label>
+         
+        <div>
+          <div
+            class="v-menu"
+            label="Status"
+          >
+            <button
+              class="v-btn theme--dark warning warning-text--text"
+              type="button"
+            >
+              <div
+                class="v-btn__content"
+              >
+                
+  Status 1
+ 
+                <i
+                  aria-hidden="true"
+                  class="v-icon v-icon--right material-icons theme--dark"
+                >
+                  arrow_drop_down
+                </i>
+              </div>
+            </button>
+            <div
+              class="v-menu__content theme--light "
+              style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+            >
+               
+              <div
+                class="v-list theme--light"
+                role="list"
+              >
+                <div
+                  role="listitem"
+                >
+                  <a
+                    class="v-list__tile v-list__tile--link theme--light"
+                  >
+                    <div
+                      class="v-list__tile__title"
+                    >
+                      Status 1
+                    </div>
+                  </a>
+                </div>
+                <div
+                  role="listitem"
+                >
+                  <a
+                    class="v-list__tile v-list__tile--link theme--light"
+                  >
+                    <div
+                      class="v-list__tile__title"
+                    >
+                      Status 2
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Opportunity Type
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-select v-input--is-label-active v-input--is-dirty theme--light"
+          role="combobox"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-select__slot"
+              >
+                <div
+                  class="v-select__selections"
+                >
+                  <div
+                    class="v-select__selection v-select__selection--comma"
+                  >
+                    Test 1
+                  </div>
+                  <input
+                    aria-readonly="false"
+                    autocomplete="on"
+                    readonly="readonly"
+                    type="text"
+                  />
+                </div>
+                <div
+                  class="v-input__append-inner"
+                >
+                  <div
+                    class="v-input__icon v-input__icon--append"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="v-icon material-icons theme--light"
+                    >
+                      arrow_drop_down
+                    </i>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="v-menu"
+              >
+                <div
+                  class="v-menu__content theme--light "
+                  style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                >
+                  <div
+                    class="v-select-list v-card theme--light"
+                  >
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        class="primary--text"
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link v-list__tile--active theme--light primary--text"
+                        >
+                          <div
+                            class="v-list__tile__content"
+                          >
+                            <div
+                              class="v-list__tile__title"
+                            >
+                              Test 1
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__content"
+                          >
+                            <div
+                              class="v-list__tile__title"
+                            >
+                              Test 2
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Lead Source
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-label-active v-input--is-dirty v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Import Date & Time
+        </label>
+         
+        <p
+          class="pa-2"
+        >
+          
+          Mar 06, 2020 • 12:49 AM
+        
+        </p>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Age
+        </label>
+         
+        <p
+          class="pa-2"
+        >
+          
+          3 minutes, 16 hours and 4 days
+        
+        </p>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Sales Rep
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-text-field--placeholder v-select v-autocomplete v-input--hide-details v-input--is-loading theme--light"
+          outline=""
+          persistent-hint=""
+          single-line=""
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-select__slot"
+              >
+                <input
+                  aria-label=""
+                  autocomplete="off"
+                  placeholder="type a name"
+                  role="combobox"
+                  type="text"
+                />
+                <div
+                  class="v-input__append-inner"
+                >
+                  <div
+                    class="v-input__icon v-input__icon--"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="v-icon v-icon--link material-icons theme--light"
+                    />
+                  </div>
+                </div>
+                <div
+                  class="v-input__append-inner"
+                >
+                  <div
+                    class="v-input__icon v-input__icon--append"
+                  >
+                    <i
+                      aria-hidden="true"
+                      class="v-icon material-icons theme--light"
+                    >
+                      arrow_drop_down
+                    </i>
+                  </div>
+                </div>
+              </div>
+              <div
+                class="v-menu"
+              >
+                <div
+                  class="v-menu__content theme--light v-autocomplete__content"
+                  style="max-height: 300px; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                >
+                  <div
+                    class="v-select-list v-card theme--light"
+                  >
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <div
+                          class="v-list__tile theme--light"
+                        >
+                          <div
+                            class="v-list__tile__content"
+                          >
+                            <div
+                              class="v-list__tile__title"
+                            >
+                              No data available
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                aria-valuemax="100"
+                aria-valuemin="0"
+                class="v-progress-linear"
+                role="progressbar"
+                style="height: 2px;"
+              >
+                <div
+                  class="v-progress-linear__background primary"
+                  style="height: 2px; opacity: 0.3; width: 100%;"
+                />
+                <div
+                  class="v-progress-linear__bar"
+                >
+                  <div
+                    class="v-progress-linear__bar__indeterminate v-progress-linear__bar__indeterminate--active"
+                  >
+                    <div
+                      class="v-progress-linear__bar__indeterminate long primary"
+                    />
+                    <div
+                      class="v-progress-linear__bar__indeterminate short primary"
+                    />
+                  </div>
+                  <!---->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Internet Coordinator
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-label-active v-input--is-dirty v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          Sales Manager
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-label-active v-input--is-dirty v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+        >
+          F & I Manager
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--solo v-text-field--solo-flat v-text-field--enclosed v-input--is-label-active v-input--is-dirty v-input--is-disabled theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  disabled="disabled"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+          for="deal-info-estimate"
+        >
+          Estimated Budget
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-input--is-label-active v-input--is-dirty theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  id="deal-info-estimate"
+                  type="number"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="flex sm3"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption py-2"
+          for="deal-info-pbsid"
+        >
+          PBS Deal Id
+        </label>
+         
+        <div
+          class="v-input v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-input--is-label-active v-input--is-dirty theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <input
+                  id="deal-info-pbsid"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex grow"
+      >
+        <label
+          class="font-weight-bold text-uppercase caption pa-2"
+          for="deal-info-notes"
+        >
+          Notes
+        </label>
+         
+        <div
+          class="v-input v-textarea v-text-field v-text-field--single-line v-text-field--enclosed v-text-field--outline v-input--is-label-active v-input--is-dirty theme--light"
+        >
+          <div
+            class="v-input__control"
+          >
+            <div
+              class="v-input__slot"
+            >
+              <div
+                class="v-text-field__slot"
+              >
+                <textarea
+                  autogrow=""
+                  id="deal-info-notes"
+                  rows="5"
+                />
+              </div>
+            </div>
+            <div
+              class="v-text-field__details"
+            >
+              <div
+                class="v-messages theme--light"
+              >
+                <div
+                  class="v-messages__wrapper"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      class="layout"
+    >
+      <div
+        class="flex"
+      >
+        <button
+          class="v-btn v-btn--large v-btn--round theme--light primary primary-text--text"
+          type="button"
+        >
+          <div
+            class="v-btn__content"
+          >
+            
+          Save Changes
+        
+          </div>
+        </button>
+      </div>
+    </div>
+  </form>
+</div>
+`;

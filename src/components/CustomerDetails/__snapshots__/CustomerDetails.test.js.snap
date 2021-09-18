@@ -1,0 +1,698 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Customer Card View Visuals customer populated 1`] = `
+<div
+  class="container grid-list-md"
+>
+  <div
+    class="layout row justify-start"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar secondary"
+        style="height: 48px; width: 48px;"
+      >
+        <span
+          class="secondary-text--text"
+          style="font-size: 24px;"
+        >
+          
+    FL
+  
+        </span>
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-4"
+    >
+      <h4
+        class="title font-weight-bold secondary--text break-word"
+      >
+        
+        First Last
+      
+      </h4>
+       
+      <span
+        class="v-chip break-word ml-0 v-chip--label theme--light info info-text--text"
+        tabindex="0"
+      >
+        <span
+          class="v-chip__content"
+        >
+          
+        ID#: 1
+      
+        </span>
+      </span>
+    </div>
+  </div>
+   
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Email
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          example@email.com
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Phone
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          123456789
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Can be texted?
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          Yes
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Associated Deals
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          3
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Company
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          Place
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Title
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          Sir
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+</div>
+`;
+
+exports[`Customer Card View Visuals customer property is null 1`] = `
+<div
+  class="container grid-list-md"
+>
+  <div
+    class="layout row justify-start"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar secondary"
+        style="height: 48px; width: 48px;"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light secondary-text--text"
+          style="font-size: 48px;"
+        >
+          account_circle
+        </i>
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-4"
+    >
+      <h4
+        class="title font-weight-bold secondary--text break-word"
+      >
+        
+         
+      
+      </h4>
+       
+      <span
+        class="v-chip break-word ml-0 v-chip--label theme--light info info-text--text"
+        tabindex="0"
+      >
+        <span
+          class="v-chip__content"
+        >
+          
+        ID#: 
+      
+        </span>
+      </span>
+    </div>
+  </div>
+   
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Email
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Phone
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Can be texted?
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Associated Deals
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Company
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Title
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+</div>
+`;
+
+exports[`Customer Card View Visuals defaults 1`] = `
+<div
+  class="container grid-list-md"
+>
+  <div
+    class="layout row justify-start"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar secondary"
+        style="height: 48px; width: 48px;"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light secondary-text--text"
+          style="font-size: 48px;"
+        >
+          account_circle
+        </i>
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-4"
+    >
+      <h4
+        class="title font-weight-bold secondary--text break-word"
+      >
+        
+         
+      
+      </h4>
+       
+      <span
+        class="v-chip break-word ml-0 v-chip--label theme--light info info-text--text"
+        tabindex="0"
+      >
+        <span
+          class="v-chip__content"
+        >
+          
+        ID#: 
+      
+        </span>
+      </span>
+    </div>
+  </div>
+   
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Email
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Phone
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Can be texted?
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Associated Deals
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Company
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Title
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right grey--text break-word"
+    >
+      
+          
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+</div>
+`;
+
+exports[`Customer Card View Visuals rows set 1`] = `
+<div
+  class="container grid-list-md"
+>
+  <div
+    class="layout row justify-start"
+  >
+    <div
+      class="flex shrink"
+    >
+      <div
+        class="v-avatar secondary"
+        style="height: 48px; width: 48px;"
+      >
+        <span
+          class="secondary-text--text"
+          style="font-size: 24px;"
+        >
+          
+    FL
+  
+        </span>
+      </div>
+    </div>
+     
+    <div
+      class="flex pl-4"
+    >
+      <h4
+        class="title font-weight-bold secondary--text break-word"
+      >
+        
+        First Last
+      
+      </h4>
+       
+      <span
+        class="v-chip break-word ml-0 v-chip--label theme--light info info-text--text"
+        tabindex="0"
+      >
+        <span
+          class="v-chip__content"
+        >
+          
+        ID#: 1
+      
+        </span>
+      </span>
+    </div>
+  </div>
+   
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Email
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right undefined break-word"
+    >
+      
+          example@email.com
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Phone
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right undefined break-word"
+    >
+      
+          123456789
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+  <div
+    class="layout row wrap"
+  >
+    <div
+      class="flex font-weight-bold text-uppercase caption md6"
+    >
+      
+        Can be texted?
+      
+    </div>
+     
+    <div
+      class="flex md6 text-xs-right undefined break-word"
+    >
+      
+          Yes
+        
+    </div>
+  </div>
+   
+  <hr
+    class="my-1 v-divider theme--light"
+  />
+</div>
+`;

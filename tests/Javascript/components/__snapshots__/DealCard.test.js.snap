@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Deals Card Snapshots defaults 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+  style="height: 100%;"
+>
+  <div
+    class="v-card__title pa-0 ma-0"
+  >
+    <nav
+      class="v-toolbar theme--dark"
+      style="margin-top: 0px; padding-right: 0px; padding-left: 0px; transform: translateY(0px); background-color: rgb(90, 81, 194); border-color: #5a51c2;"
+    >
+      <div
+        class="v-toolbar__content"
+        style="height: 64px;"
+      >
+        <div
+          class="v-toolbar__title"
+        >
+          Active
+        </div>
+      </div>
+    </nav>
+  </div>
+   
+  <div
+    class="v-card__text pt-0"
+  >
+    <h2
+      class="my-3 font-weight-bold primary--text"
+    >
+      
+      Test Name
+    
+    </h2>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex font-weight-bold text-uppercase caption pa-1 xs5"
+      >
+        
+        Customer
+      
+      </div>
+       
+      <div
+        class="flex font-weight-bold f-dealCard__highlight pa-1 xs7 text-xs-right"
+      >
+        
+        First
+        Last
+        
+        <br />
+        
+        #123
+      
+      </div>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex font-weight-bold text-uppercase caption pa-1 xs5"
+      >
+        
+        Estimate
+      
+      </div>
+       
+      <div
+        class="flex font-weight-bold f-dealCard__highlight pa-1 xs7 text-xs-right"
+      >
+        
+        25000
+      
+      </div>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex font-weight-bold text-uppercase caption pa-1 xs5"
+      >
+        
+        Age
+      
+      </div>
+       
+      <div
+        class="flex pa-1 xs7 text-xs-right"
+      >
+        
+        in 26 years
+      
+      </div>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex font-weight-bold text-uppercase caption pa-1 xs5"
+      >
+        
+        Sales Rep
+      
+      </div>
+       
+      <div
+        class="flex pa-1 xs7 text-xs-right"
+      >
+        
+        First
+        Last
+      
+      </div>
+    </div>
+     
+    <hr
+      class="v-divider theme--light"
+    />
+     
+    <div
+      class="layout row"
+    >
+      <div
+        class="flex font-weight-bold text-uppercase caption pa-1 xs5"
+      >
+        
+        Source
+      
+      </div>
+       
+      <div
+        class="flex pa-1 xs7 text-xs-right"
+      >
+        
+        cars.com
+      
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DealHistory Snapshots deal history timeline 1`] = `
+<v-layout-stub
+  column=""
+  tag="div"
+>
+  <v-layout-stub
+    row=""
+    tag="div"
+    wrap=""
+  >
+    <v-flex-stub
+      pa-3=""
+      shrink=""
+      tag="div"
+    >
+      <label
+        class="font-weight-bold text-uppercase caption pa-2"
+        for="deal-activity-types"
+      >
+        
+        Display
+      
+      </label>
+       
+      <multi-select-stub
+        class="mt-2"
+        hide-details=""
+        id="deal-activity-types"
+        item-text="name"
+        item-value="id"
+        items="[object Object],[object Object],[object Object],[object Object]"
+        placeholder="None selected"
+        selectallname="All Types"
+        solo=""
+        value=""
+      />
+    </v-flex-stub>
+     
+    <v-flex-stub
+      pa-3=""
+      shrink=""
+      tag="div"
+    >
+      <label
+        class="font-weight-bold text-uppercase caption pa-2"
+      >
+        Sort By
+      </label>
+       
+      <v-select-stub
+        class="mt-2"
+        items="[object Object],[object Object]"
+        label="Sort By"
+        solo=""
+        value="asc"
+      />
+    </v-flex-stub>
+  </v-layout-stub>
+   
+  <v-layout-stub
+    tag="div"
+  >
+    <v-timeline-stub
+      dense="true"
+      style="width: 100%;"
+    >
+      <v-timeline-item-stub
+        color="secondary"
+        icon="fa-info"
+      >
+        <v-card-stub
+          class="elevation-1"
+          tag="div"
+        >
+          <v-card-text-stub
+            class="d-flex"
+          >
+            <div>
+              <div
+                class="caption"
+              >
+                
+                No History available or none that matches the Filters.
+              
+              </div>
+            </div>
+          </v-card-text-stub>
+        </v-card-stub>
+      </v-timeline-item-stub>
+       
+    </v-timeline-stub>
+  </v-layout-stub>
+</v-layout-stub>
+`;

@@ -1,0 +1,248 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Customer Message snapshot default 1`] = `
+<div
+  class="v-card v-sheet theme--light"
+  style="height: 100%;"
+>
+  <div
+    class="layout row wrap text-customer"
+  >
+    <div
+      class="flex d-flex"
+    >
+      <div
+        class="v-card v-card--flat v-sheet theme--light"
+      >
+        <div
+          class="layout row"
+        >
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Customer
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    User
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Customer ID
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    999
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Email Address
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    info@mail.com
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="flex d-flex"
+          >
+            <div
+              class="v-card v-card--flat v-sheet v-sheet--tile theme--light"
+            >
+              <div
+                class="v-card__title"
+              >
+                <div>
+                  <div
+                    class="subheading"
+                  >
+                    
+                    Phone
+                  
+                  </div>
+                   
+                  <span
+                    class="body-2"
+                  >
+                    766-888-9999
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="flex d-flex justify-end xs12"
+    >
+      <div
+        class="v-card v-card--flat v-sheet theme--light"
+      >
+        <div
+          class="v-card__title"
+        >
+          <div>
+            <h3
+              class="subheading pb-1"
+            >
+              
+              Opportunity
+            
+            </h3>
+            
+            Trade in: 2016 Prius owner looking for SUV options
+          
+          </div>
+        </div>
+         
+        <hr
+          class="v-divider theme--light"
+        />
+         
+        <div
+          class="v-card__text"
+        >
+          <h2
+            class="pb-3"
+          >
+            
+            Text Message
+          
+          </h2>
+           
+          <div
+            class="v-input v-textarea v-text-field v-text-field--single-line v-text-field--solo v-text-field--enclosed theme--light"
+          >
+            <div
+              class="v-input__control"
+            >
+              <div
+                class="v-input__slot"
+              >
+                <div
+                  class="v-text-field__slot"
+                >
+                  <label
+                    aria-hidden="true"
+                    class="v-label theme--light"
+                    style="left: 0px; position: absolute;"
+                  >
+                    Text Content
+                  </label>
+                  <textarea
+                    aria-label="Text Content"
+                    data-textmessage=""
+                    rows="5"
+                  />
+                </div>
+              </div>
+              <div
+                class="v-text-field__details"
+              >
+                <div
+                  class="v-messages theme--light"
+                >
+                  <div
+                    class="v-messages__wrapper"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+         
+        <div
+          class="layout justify-end row"
+        >
+          <button
+            class="v-btn v-btn--large v-btn--round theme--light"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+            Cancel
+          
+            </div>
+          </button>
+           
+          <button
+            class="v-btn v-btn--disabled v-btn--large v-btn--round theme--light"
+            disabled="disabled"
+            type="button"
+          >
+            <div
+              class="v-btn__content"
+            >
+              
+            Send
+          
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
